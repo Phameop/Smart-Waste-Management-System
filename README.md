@@ -32,4 +32,5 @@ The contract is now **ready to compile and deploy** without any parser errors! Y
 
 
 contract address:0x730E21870B88079fa8EB7d7a817B550f4adF2609
-link:/home/ustm/Downloads/Screenshot 2025-07-29 at 12-53-14 Address Core Testnet2 Scan.png
+link:<img width="1489" height="788" alt="Screenshot 2025-07-29 at 12-53-14 Address Core Testnet2 Scan" src="https://github.com/user-attachments/assets/2f7f1f10-d6f4-477b-ba63-6e8d2d530983" />
+
